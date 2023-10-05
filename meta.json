@@ -21,8 +21,8 @@
                     "createdAt": "2023-09-18T16:09:48.864Z",
                     "updatedAt": "2023-09-18T16:09:48.864Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/6508502b15683a3894c200a3/assets/6508764c9eb9474a7d7149d3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230920%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230920T185811Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=886aa3a09ad0e51458131f8f2b6c154fb599f8fc9183f38039eb4c7b7ba4f7d2c2cfe9bf2959f477c72ad0e045552f992af5ebbe695f75c2a37a025ab50156f660af3f5f0178d81166a6d96c499072fdfa2572162ea7c29daeec73b4275f800eae776e7c8b4fa65d93d132cfca9b975b31077f0b13d9ea4e5569a331b7cb1279d0c0528f594d579ce8a15f80e18a4c08821150115a7a04145b98c46f174b311f07c3edea7dec2312f3122ad199a0214baeebb499d3870f79d25caf64fe73f2f4d363b5f8bb9bb69cbb597b976b270d7ed1f44a32562230141e105428b2bc3d94c0f6ada03016cf24e60592a0570e1624846be9bb84ed8e6ed1f83d37befc3abc",
-                    "signedUrlExpirationTime": 1695409091788
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/6508502b15683a3894c200a3/assets/6508764c9eb9474a7d7149d3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231005%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231005T122851Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=74bad306d513f120c51bbd4b615bb83e14b20eb71ae6c9e73c392b5a052247ea3e79b6a55e5940c0d09a6a85e843e8aef7d143067f16782da279b04882cb4b351e5e2dc9c4f4be87114f21d61ab5a33eca2afa40ace7a0357e29325abc86b748309cecb9d927a624edf05da9e8dc03fb077d52aaea7893299e61f219ebfe9be5bfc700914a3bcdd19334b46f5330a578ca7f4cf3930b7b1ed9b6dd0c21a903436dec514e4682a9bc929d530a31613556b9d40d2ac1e0cb36be5f3179de24f3878c6c8e2bea4a425c6fd905d008c120ab99aa625b2d4fdf2633e6c9ea8dbed8135e907dcb2043e810f98bfc3bcdaaf9a4df23b8a0cdd4059e3240edd39315aff4",
+                    "signedUrlExpirationTime": 1696681731719
                 },
                 "650876d16c318117ad160de4": {
                     "externalStorageType": "GCS",
@@ -37,8 +37,8 @@
                     "createdAt": "2023-09-18T16:12:01.440Z",
                     "updatedAt": "2023-09-18T16:12:01.440Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/6508502b15683a3894c200a3/assets/650876d16c318117ad160de4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230920%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230920T185811Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3ade731daeb76dee0521b218d3a5d1a6233ea3a285b9e11c6193b02b8301a648dcdef0e174564e7c4dc075837d862fb0d256a70b3fbf305429482bf2d72549366f4133a281a4332af9f9e39fbc9cb2e60dc3f68c8af9677c144ab15a3ed504c970af5cfb9f9156e0d4805ee7a6516f164a7827738b733e4dc7236e3cc16bf54e14a3587f44d916bca3f30420286496e81b51525b78c41e7560a116b84c9680166438ca8d1fa43e2f5734c089d5da4e84fe05ba9cf25056150614380b1afcb6f860f6b4883b54058f9e8f8bcc2d00e8b3b0d8be03839b283aceb2fb5fed3dfff1697e6e5a12a2c132874224b917cee86c1b3cf2437ee4ebe9293ef6a704f34257",
-                    "signedUrlExpirationTime": 1695409091793
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/6508502b15683a3894c200a3/assets/650876d16c318117ad160de4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231005%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231005T122851Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2d4da9d82102752928562d7bb6113aabfff409a85deeeb2a99cf8b131ff8bf5d052e2281c89969621f76fde09d9ca965f5199bc5ed65f573f1a27c9fae738403552ccf8c0ced3d7602b144707e5c613d4c7c5dc31bb41d9a8100efc280e507d8ac446681f1c0f782193f1df80acdd5d3eeee04645258b90f2fbd120a09eaa570d265916fd894a8c8b0a193c411ad52895a60dd0d65d2393bdea907f7dc4770ace8307098dd2189456d3922c634592d510f0d7947b4d91e310867a47d8bd82d385b08e848c9ad3873d5b4bb2aba0f46aaa71c97a40d291f8125a3c1d2857bdec91d6046df4158e5fcdf4973cf6d2f8c63ad33024831b00d2400ec6a13ccd1cf25",
+                    "signedUrlExpirationTime": 1696681731722
                 }
             },
             "backendUpgradeVersion": 21,
@@ -83,9 +83,15 @@
             ],
             "components": {
                 "children": [
-                    "SignUpScreen.99892a14-10df-42ea-9615-980a8a156eff",
-                    "ProfileScreen.ef641328-7817-4129-a469-17c6ffb2fd22",
-                    "SignOutScreen.3449a5be-55ea-49d5-afb4-52493c4f86d3"
+                    {
+                        "id": "99892a14-10df-42ea-9615-980a8a156eff"
+                    },
+                    {
+                        "id": "ef641328-7817-4129-a469-17c6ffb2fd22"
+                    },
+                    {
+                        "id": "3449a5be-55ea-49d5-afb4-52493c4f86d3"
+                    }
                 ]
             },
             "figmaComponents": {},
@@ -134,7 +140,7 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-7855194693513990~9285160824",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
@@ -180,11 +186,11 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-7855194693513990~9285160824",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": false,
+            "hasAdmob": true,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
